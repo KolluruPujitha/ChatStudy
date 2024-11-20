@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name : k.pujitha
+## Register number : 212223240074
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
